@@ -25,14 +25,17 @@
 	    <!-- Collect the nav links, forms, and other content for toggling -->
 	    <div class="collapse navbar-collapse">
 	      <ul class="nav navbar-nav navbar-right">
+	      	<li>
+	        	<a id="nav-content" href="index.php"><span class="glyphicon glyphicon-home"></span>購物首頁</a>
+	        </li>
 	        <li>
-	        	<a id="nav-content" href="index.php">會員註冊</a>
+	        	<a id="nav-content" href="rigster.php">會員註冊</a>
 	        </li>
 	        <li>
 	        	<a id="nav-content" href="login.php"><span class="glyphicon glyphicon-log-in"></span>登入</a>
 	        </li>
 	        <li>
-	        	<a id="nav-content" href="login.php"><span class="glyphicon glyphicon-shopping-cart">(0)</span></a>
+	        	<a id="nav-content" href="index.php"><span class="glyphicon glyphicon-shopping-cart">(0)</span></a>
 	        </li>
 	      </ul>
 	    </div><!-- /.navbar-collapse -->
